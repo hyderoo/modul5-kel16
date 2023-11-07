@@ -1,0 +1,30 @@
+.card-profile {
+    width: 300px; 
+    margin: 10px;
+    border-radius: 5px;
+    overflow: hidden; 
+  }
+  
+  .card-profile-picture {
+    width: 100px; 
+    height: 100px; 
+    object-fit: cover;
+    border-radius: 50%;
+    float: left;
+  }
+  
+  .card-profile-content {
+    padding: 10px;
+    margin-left: 100px; 
+  }
+  
+  .card-profile-content h3 {
+    margin-top: 0;
+  }
+  
+  .card-profile-content p {
+    margin: 5px 0;
+    padding-left: 5px; 
+   
+  }
+  
